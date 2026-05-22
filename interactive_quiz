@@ -37,7 +37,7 @@ C) Only allow rules.
 
 --------------------------------------------------
 
-7. What is the default traffic configuration for a newly created AWS Security Group?
+7. What is the default traffic configuration for a newly created AWS Security Group
 
 A) All inbound traffic is blocked, and all outbound traffic is allowed.
 
